@@ -18,7 +18,25 @@
   </teiHeader>
   <text>
       <body>
-         <p>Some text here.</p>
+        <div type="poem">
+          <Head>
+            ROUGE ET NOIR.
+            </Head>. 
+          <lg>
+            <l>SOUL, wilt thou toss again?</l>
+            <l>By just such a hazard</l>
+            <l>Hundreds have lost, indeed,</l>
+            <l>But tens have won an all.
+            </l>
+          </lg>
+          <lg>
+            <l>Angels' breathless ballot</l>
+            <l>Lingers to record thee ;</l>
+            <l>Imps in eager caucus</l>
+            <l>Raffle for my soul.</l>
+          </lg>
+          
+        </div>
       </body>
   </text>
 </TEI>
